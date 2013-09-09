@@ -1,0 +1,10 @@
+[
+ {
+ "keys": ["alt+pagedown"],
+ "command": "cjump_next_file"
+ },
+ {
+ "keys": ["alt+pageup"],
+ "command": "cjump_previous_file"
+ }
+]
