@@ -1,4 +1,4 @@
-### Sublime Cjump
+## Sublime Cjump
 
 
 This is a very simple and rough plugin for sublime text2/3.
@@ -11,7 +11,7 @@ I believe it useful and remained to be developed,so I created this github Reposi
 
 
 
-### Installation
+## Installation
 
 * Launch sublime text 2 
 * Preferences->Browse Packages
@@ -20,7 +20,7 @@ I believe it useful and remained to be developed,so I created this github Reposi
 
 
 
-### License
+## License
     Copyright (C) 2013 Chen Hui <calmer91@gmail.com>
     Licensed under the Apache License, Version 2.0 (the "
 
