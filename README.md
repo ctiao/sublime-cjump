@@ -1,11 +1,13 @@
-Sublime Cjump
-=============
+### Sublime Cjump
 
 
-    This is a very simple and rough plugin for sublime text2/3.
-    Install this plugin , you can open the next/previous file in the same folder of the current file  by pressing alt+PgDn and alt+PgUp.
-    I'm a Python noob. I wrote it because I hadn't  found the plugin above mentioned.
-    I believe it useful and remained to be developed,so I created this github Repository.
+This is a very simple and rough plugin for sublime text2/3.
+
+Install this plugin , you can open the next/previous file in the same folder of the current file  by pressing alt+PgDn and alt+PgUp.
+
+I'm a Python noob. I wrote it because I hadn't  found the plugin above mentioned.
+
+I believe it useful and remained to be developed,so I created this github Repository.
 
 
 
